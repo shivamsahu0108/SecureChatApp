@@ -62,3 +62,7 @@ This repository contains the following modules:
 ## Contributing
 
 Contributions are welcome! Please fork the repository and open a pull request with your changes.
+
+## Credits
+
+Frontend made by my friend.
