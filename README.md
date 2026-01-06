@@ -65,4 +65,4 @@ Contributions are welcome! Please fork the repository and open a pull request wi
 
 ## Credits
 
-Frontend made by my friend.
+Frontend made by my friend [Gajraj Chakrawarti](https://github.com/gajrajchakrawarti12).
